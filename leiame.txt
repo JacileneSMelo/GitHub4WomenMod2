@@ -1,0 +1,32 @@
+# Exercício: Aprendendo a Criar um Repositório no GitHub
+
+Este repositório foi criado como parte de um exercício prático para aprender os conceitos básicos de versionamento com Git e GitHub.
+
+## 📌 Objetivo
+
+- Praticar a criação de repositórios no GitHub
+- Entender a estrutura de um projeto versionado
+- Criar e editar arquivos, como o `README.md`
+
+## 🛠️ Etapas Realizadas
+
+- Criação do repositório
+- Adição de um arquivo README.md
+- Primeiros commits
+- Teste de clonagem, edição e push
+
+## 🧠 Aprendizados
+
+- O que é um repositório
+- Diferença entre Git e GitHub
+- Comandos básicos como `git init`, `git add`, `git commit`, `git push`, entre outros
+
+## 🚀 Próximos Passos
+
+- Aprender sobre branches
+- Realizar merge de alterações
+- Explorar issues e pull requests
+
+---
+
+*Este projeto é apenas para fins educacionais e faz parte da minha jornada de aprendizado em desenvolvimento e versionamento de código.*
